@@ -28,6 +28,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [],
+  "author": "Animesh Kumar Singh",
   "eslintConfig": {
     "extends": [
       "react-app",

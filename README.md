@@ -5,4 +5,3 @@ A fully functional Ecommerce website developed using React and Firebase and many
 - Do visit the application I am sure you would like that 
 - In order to make payement you have to be loggedIn to the Application then only you will be able to make orders and proceed to checkout page for making your payments .
 
- <a href=https://clone-3ba77.web.app/>https://clone-3ba77.web.app/</a>
